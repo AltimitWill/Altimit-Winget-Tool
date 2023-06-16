@@ -1,7 +1,7 @@
 # Altimit Winget Tool
 A Winget Tool that will Remove Bloatware and Install Applications for Windows 10/11
 
-<h1>To Use The Program Please Follow These Instructions:</h1>
+<h3>To Use The Program Please Follow These Instructions:</h3>
 
 1. Open PowerShell by searching for "PowerShell" in the Windows Start menu or by pressing the Windows key + R, typing "powershell," and pressing Enter.
 
