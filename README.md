@@ -20,7 +20,7 @@ A Winget Tool that will Remove Bloatware and Install Applications for Windows 10
 
 
 
-APPLICATIONS THAT CAN BE INSTALLED:
+<h2>APPLICATIONS THAT CAN BE INSTALLED:</h2>
 
 Browsers:
 Google Chrome
