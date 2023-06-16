@@ -29,19 +29,19 @@ Opera GX<br>
 Opera<br>
 Brave<br>
 
-AntiViruses:
-Webroot SecureAnywhere
-Norton 360
+AntiViruses:<br>
+Webroot SecureAnywhere<br>
+Norton 360<br>
 
-Game Distributors:
-Steam
-Origin
-Epic Games
-Discord
+Game Distributors:<br>
+Steam<br>
+Origin<br>
+Epic Games<br>
+Discord<br>
 
-Music:
-Spotify
-iTunes
+Music:<br>
+Spotify<br>
+iTunes<br>
 
 
 
