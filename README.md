@@ -1,5 +1,5 @@
 # Altimit Winget Tool
-A Winget Tool that will Remove Bloatware and Install Applications
+A Winget Tool that will Remove Bloatware and Install Applications for Windows 10/11
 
 To Use The Program Please Follow These Instructions:
 
