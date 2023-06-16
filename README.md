@@ -22,24 +22,24 @@ A Winget Tool that will Remove Bloatware and Install Applications for Windows 10
 
 <h2>APPLICATIONS THAT CAN BE INSTALLED:</h2>
 
-Browsers:<br>
+<strong>Browsers:</strong><br>
 Google Chrome<br>
 Mozilla Firefox<br>
 Opera GX<br>
 Opera<br>
 Brave<br>
 
-AntiViruses:<br>
+<strong>AntiViruses:</strong><br>
 Webroot SecureAnywhere<br>
 Norton 360<br>
 
-Game Distributors:<br>
+<strong>Game Distributors:</strong><br>
 Steam<br>
 Origin<br>
 Epic Games<br>
 Discord<br>
 
-Music:<br>
+<strong>Music:</strong><br>
 Spotify<br>
 iTunes<br>
 
