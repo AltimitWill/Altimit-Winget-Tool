@@ -5,7 +5,7 @@ A Winget Tool that will Remove Bloatware and Install Applications for Windows 10
 
 1. Open PowerShell by searching for "PowerShell" in the Windows Start menu or by pressing the Windows key + R, typing "powershell," and pressing Enter.
 
-	By default, PowerShell has .ps1 execution policies in place that may prevent running .ps1 files. To change the execution policy for the current session, run the following command in PowerShell with administrative privileges: Set-ExecutionPolicy RemoteSigned
+	By default, PowerShell has .ps1 execution policies in place that may prevent running .ps1 files. To change the execution policy for the current session, run the following command in PowerShell with administrative privileges: <strong>Set-ExecutionPolicy RemoteSigned</strong>
 
 2. Navigate to the directory where your .ps1 file is located using the cd (Change-Location) command. For example, if your file is in the "C:\Altimit Winget Tool" directory, run the following command: cd C:\Altimit Winget Tool
 
